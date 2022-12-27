@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
     <h2> Trophies:</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=OnkarMudegol&theme=algolia">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yash926&theme=algolia">
 
 
 ###
