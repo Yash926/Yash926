@@ -24,6 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
+    <h2> Trophies:</h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=OnkarMudegol&theme=algolia">
+
 
 ###
 <h2>Connect with me:</h2>    
