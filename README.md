@@ -16,7 +16,7 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash926&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> ⚒️ Langauges and Tools I am proficient with:</h2>
+<h2> ⚒️ Languages and Tools I am proficient with:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
