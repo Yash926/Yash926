@@ -32,7 +32,7 @@
 <h2>Connect with me:</h2>    
 <div align="left">
   <a href="https://www.linkedin.com/in/yash-tripathi-30a382256/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="https://stackoverflow.com/users/20870947/yash-tripathi" target="_blank">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
   </a>
