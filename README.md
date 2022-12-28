@@ -42,7 +42,7 @@
   <a href="https://twitter.com/tripathiYash143" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linktr.ee/OnkarMudegol" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </div>
