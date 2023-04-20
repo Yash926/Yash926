@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="40" width="52" alt="canva logo"  />
+
 </div>
     <h2> Trophies:</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Yash926&theme=algolia">
