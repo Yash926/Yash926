@@ -3,7 +3,7 @@
 <list>
     <li>🧠 I'm a Full Stack Development enthusiast.
     <li>🌱 I’m currently learning c,c++ and DSA.
-    <li>🌱 I,m proefficint in Python,HTML & CSS.
+    <li>🌱 I'm proefficint in Python,HTML & CSS.
     <li>💞️ I’m looking to collaborate with other amazing developers
     <li>🥅 Goal in life: To accomplish something worthwhile
 </list>
