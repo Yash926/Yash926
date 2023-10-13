@@ -31,7 +31,7 @@
 </div>
     <h2> Trophies:</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Yash926&theme=algolia">
-     <img src="https://holopin.me/Yash926">
+     <img src="https://holopin.me/yash926">
 
 
 ###
